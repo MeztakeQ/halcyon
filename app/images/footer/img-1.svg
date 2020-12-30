@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="12" height="18" viewBox="0 0 12 18">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 20px;
+        fill: #242830;
+        text-anchor: end;
+        font-family: FontAwesome;
+      }
+    </style>
+  </defs>
+  <text id="_" data-name="" class="cls-1" x="12" y="16.002"><tspan x="12"></tspan></text>
+</svg>
