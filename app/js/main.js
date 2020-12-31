@@ -115,4 +115,7 @@ $('.team__down').slick({
 $('.subscribe__bg').parallax({imageSrc: 'images/subscribe/bg.jpg'});
 
 
+new WOW().init();
+
+
 });
